@@ -1,0 +1,11 @@
+
+Installation
+
+
+1.Install node.js
+2.All npm packages is installed already.
+3.In command prompt, go to this project folder and type "node start".
+4.Open chrome or firefox and type "http://your-ip-address:3000/cohort" in URL bar.
+You can see cohort analysis result for 10 weeks of 2015 year.
+
+Thank you for your care.
